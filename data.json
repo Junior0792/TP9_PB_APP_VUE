@@ -1,0 +1,147 @@
+{
+    "delegacias": [
+        {
+            "id": 0,
+            "name": "DGPC - Departamento-Geral de Polícia da Capital",
+            "endereco": "Rua da Relação, 42, 11º andar - Centro, Rio de Janeiro - RJ, 20231-110",
+            "responsavel": "Delegado de Polícia Antenor Lopes",
+            "telefone": "2332-9902 / 2332-9685 / 2332-9943"
+        },
+        {
+            "id": 1,
+            "name": "001ª DP - Praça Mauá",
+            "endereco": "Sede da 4ª DP - Praça da República",
+            "responsavel": "Delegado de Polícia José Luiz Silva Duarte",
+            "telefone": "2334-5159 / 2334-5163 / 2334-5142 "  
+        },
+        {
+            "id": 2,
+            "name": "004ª DP - Praça da República",
+            "endereco": "Av. Presidente Vargas, 1100 - Centro, Rio de Janeiro - RJ, 20071-002",
+            "responsavel": "Delegado de Polícia Vinícius Ferreira Domingos",
+            "telefone": "2332-5273 2332-5258 / 2332-5514"
+        },
+        {
+            "id": 3,
+            "name": "005ª DP - Mem de Sá",
+            "endereco": "Avenida Gomes Freire, 320 - Centro, Rio de Janeiro - RJ, 20231-013",
+            "responsavel": "Delegado de Polícia Gustavo de Mello de Castro",
+            "telefone": "2332-8110 / 2332-8106"
+        },
+        {
+            "id": 4,
+            "name": "006ª DP - Cidade Nova",
+            "endereco": "Rua Professor Clementino Fraga, 77 - Centro, Rio de Janeiro - RJ, 20230-250",
+            "responsavel": " Delegada de Polícia Maria Aparecida Salgado Mallet",
+            "telefone": " 2332-8183 / 2332-8181 / 2332-9965"
+        },
+        {
+            "id": 5,
+            "name": "007ª DP - Santa Teresa",
+            "endereco": "Rua Francisco de Castro, 5 - Santa Teresa, Rio de Janeiro - RJ, 20241-300",
+            "responsavel": "Delegado de Polícia Renato Bezerra Carvalho",
+            "telefone": "2332-8062 / 2332-8052 / 2332-8063"
+        },
+        {
+            "id": 6,
+            "name": "009ª DP - Catete",
+            "endereco": "Rua Pedro Américo, 1 - Catete, Rio de Janeiro - RJ, 22211-200",
+            "responsavel": "Delegado de Polícia Rafael Barcia Sarnelli Lopes",
+            "telefone": "2334-4126 / 2334-3969 / 2334-3967 "
+        },
+        {
+            "id": 7,
+            "name": "010ª DP - Botafogo",
+            "endereco": "Rua Bambina, 140 - Botafogo, Rio de Janeiro - RJ, 22251-050",
+            "responsavel": " Delegado de Polícia Daniel Freitas da Rosa",
+            "telefone": "2334-8085 / 2334-8079 / 2332-8082"
+        },
+        {
+            "id": 8,
+            "name": "011ª DP - Rocinha",
+            "endereco": "Rua Bertha Lutz, 80 - Gávea, Rio de Janeiro - RJ, 22450-290",
+            "responsavel": "Delegada de Polícia Flávia Goes Monteiro Romero de Barros",
+            "telefone": "2334-6772 / 2334-6776 / 2334-6897"
+        },
+        {
+            "id": 9,
+            "name": "012ª DP - Copacabana",
+            "endereco": "Rua Hilário de Gouveia, 102 - Copacabana, Rio de Janeiro - RJ, 22040-020",
+            "responsavel": "Delegada de Polícia Natacha Alves de Oliveira",
+            "telefone": "2332-7914 / 2332-7901 / 2332-7903 "
+        },
+        {
+            "id": 10,
+            "name": "013ª DP - Ipanema",
+            "endereco": "Avenida Nossa Senhora de Copacabana, 1260 - Copacabana, Rio de Janeiro - RJ, 22070-012",
+            "responsavel": "Delegado de Polícia Felipe Santoro da Silva",
+            "telefone": "2332-2076 / 2332-2064 / 2332-2038"
+        },
+        {
+            "id": 11,
+            "name": "014ª DP - Leblon",
+            "endereco": "Avenida Humberto de Campos, 315 - Leblon, Rio de Janeiro - RJ, 22430-190",
+            "responsavel": "Delegada de Polícia Daniela Campos Rodriguez Terra",
+            "telefone": "2332-2866 / 2332-2877 / 2332-2874"
+        },
+        {
+            "id": 12,
+            "name": "015ª DP - Gávea",
+            "endereco": "Rua Major Rubens Vaz, 170 - Gávea, Rio de Janeiro - RJ, 22470-070",
+            "responsavel": "Delegado de Polícia Bianca Rodrigues Xavier Lima de Vasconcelos",
+            "telefone": "2332-2912 / 2332-2908 / 2332-2902 "
+        }
+    ],
+    "restaurantes": [
+        {
+            "id": 0,
+            "name": "Pizza Hut",
+            "endereco": "Praça Des. Araújo Jorge, s/n° - Barra da Tijuca, Rio de Janeiro - RJ, 22611-220",
+            "horario": "Aberto 8 até 23 horas de (Segunda a domingo)",
+            "telefone": "(21) 2333-6364"
+        },
+        {
+            "id": 1,
+            "name": "Taco bell - Copacabana",
+            "endereco": "R. Barão de Iguatemi, 331 - Praca da Bandeira, Rio de Janeiro - RJ, 20270-060",
+            "horario": "Aberto 10 ás 24 horas de (Segunda a domingo)",
+            "telefone": "(21) 2333-6364"
+        },
+        {
+            "id": 2,
+            "name": "China in box - Botafogo",
+            "endereco": "R. Prof. Clementino Fraga, 77 - Cidade Nova, Rio de Janeiro - RJ, 20230-250",
+            "horario": " Aberto 10 até ás 22 horasde (Segunda a domingo)",
+            "telefone": "(21) 2433-6364"
+        },
+        {
+            "id": 3,
+            "name": "Azteka - Restaurante Mexicano",
+            "endereco": " R. Bambina, 140 - Botafogo, Rio de Janeiro - RJ, 22251-050",
+            "horario": "Aberto 9 até ás 23 horas de (Segunda a domingo)",
+            "telefone": "(21) 2333-8864"
+        },
+        {
+            "id": 4,
+            "name": "Arepas Venezuelanas",
+            "endereco": "R. Aristides Caire, 80 - Méier, Rio de Janeiro - RJ, 20775-090",
+            "horario": "Aberto 11 ás 24 horas de (Segunda a domingo)",
+            "telefone": " (21) 3333-6364"
+        },
+        {
+            "id": 5,
+            "name": "Cozinha Peruana - Lapa",
+            "endereco": "Rua Hilário de Gouvêia, 102 - Copacabana, Rio de Janeiro - RJ, 22040-020",
+            "horario": "Aberto 8 até ás 22 horas de (Segunda a domingo)",
+            "telefone": "(21) 2333-6444"
+        },
+        {
+            "id": 6,
+            "name": "Samba food",
+            "endereco": "Rua Silvio Ramos, 300 - Lapa, Rio de Janeiro - RJ, 22040-020",
+            "horario": "Aberto 8 até ás 22 horas de (Segunda a domingo)",
+            "telefone": "(21) 2333-6444"
+        }
+       
+    ]
+}
