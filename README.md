@@ -1,4 +1,4 @@
-# projeto-tp9
+# TP9 PB Aplicação desenvolvida em Vue.js
 
 ## Project setup
 ```
